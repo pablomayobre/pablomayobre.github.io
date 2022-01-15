@@ -21,7 +21,7 @@
     "@types/jsdom": "^16.1.0",
     "jsdom": "^16.2.0",
     "@types/marked": "^0.7.2",
-    "marked": "^0.8.0",
+    "marked": "^4.0.10",
     "@types/slug": "^0.9.1",
     "slug": "^2.1.1",
     "dompurify": "^2.0.8",
