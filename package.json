@@ -19,7 +19,7 @@
     "@types/highlightjs": "^9.12.0",
     "highlight.js": "^9.18.1",
     "@types/jsdom": "^16.1.0",
-    "jsdom": "^16.2.0",
+    "jsdom": "^16.5.0",
     "@types/marked": "^0.7.2",
     "marked": "^0.8.0",
     "@types/slug": "^0.9.1",
